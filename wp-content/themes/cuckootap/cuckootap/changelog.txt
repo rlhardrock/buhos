@@ -1,0 +1,588 @@
+CuckooTap Changelog
+
+2013.08.13 - version 3.2
+
+* Parallax Background Bug Fix
+
+Updated CSS Files:
+cuckootap/style.css
+
+Updated PHP Files:
+cuckootap/home.php
+cuckootap/templates/fonts.php
+cuckootap/templates/map.php
+cuckootap/admin/configs.php
+cuckootap/admin/admin-functions.php
+
+2013.08.06 - version 3.1
+
+* 2 Traditional Blog Layout Templates Added
+* Parallax Background Chrome Bug Fix
+* Minor Bug Fix
+
+Added files:
+cuckootap/template-blog3.php
+cuckootap/template-blog4.php
+
+Updated CSS Files:
+cuckootap/style.css
+cuckootap/css/screens-media.css
+cuckootap/css/nivo-slider.css
+cuckootap/admin/woo/css/style.css
+
+Updated PHP Files:
+cuckootap/header.php
+cuckootap/admin/configs.php
+
+2013.08.03 - version 3.0
+
+* WordPress 3.6 Compatibility Fix
+* New Feature / Revolution Slider Unit Added
+* New Feature / Smooth Scroll Toggle Switch Added
+* Minor Bug Fix
+
+Added file:
+cuckootap/admin/pages/themes.php
+
+Updated CSS Files:
+cuckootap/style.css
+cuckootap/css/cuckoothemes.css
+cuckootap/admin/css/admin.css
+cuckootap/admin/woo/css/style.css
+cuckootap/framework/plugins/revslider/rs-plugin/css/captions.css
+
+Updated PHP Files:
+cuckootap/home.php
+cuckootap/header.php
+cuckootap/archive.php
+cuckootap/template-team.php
+cuckootap/loop/work/by-types-header.php
+cuckootap/admin/default.php
+cuckootap/admin/configs.php
+cuckootap/admin/admin-hooks.php
+cuckootap/admin/admin-functions.php
+cuckootap/admin/pages/admin-builder.php
+cuckootap/admin/pages/admin-framework.php
+cuckootap/admin/elemets/subtitle.php
+cuckootap/admin/elemets/custom-galleries.php
+cuckootap/admin/shortcodes/social-box/twitter-list.php
+cuckootap/admin/shortcodes/button/button_shortcodes.php
+
+Updated JS Files:
+cuckootap/admin/shortcodes/settings/shortcodes.js
+cuckootap/js/jquery.cuckoo-scroll.js
+cuckootap/admin/js/admin.js
+cuckootap/admin/js/clone.js
+
+2013.06.10 - version 2.9
+
+* WPML Compatibility Added
+* Minor Bug Fix
+
+Updated CSS Files:
+cuckootap/style.css
+
+Updated PHP Files:
+cuckootap/home.php
+cuckootap/header.php
+cuckootap/footer.php
+cuckootap/templates/map.php
+cuckootap/loop/post/related.php
+cuckootap/loop/work/related.php
+cuckootap/templates/main_slideshow.php
+cuckootap/admin/configs.php
+cuckootap/admin/admin-hooks.php
+cuckootap/admin/admin-functions.php
+cuckootap/admin/pages/admin-framework.php
+cuckootap/admin/pages/admin-builder.php
+cuckootap/admin/pages/admin-contact.php
+cuckootap/admin/pages/admin-slideshow.php
+cuckootap/admin/pages/admin-header_footer.php
+
+Updated JS Files:
+cuckootap/js/theme_settings.js
+cuckootap/admin/shortcodes/settings/shortcodes.js
+
+2013.05.19 - version 2.8
+
+* Minor Bug Fix
+
+Updated CSS Files:
+cuckootap/style.css
+cuckootap/css/screens-media.css
+
+Updated PHP Files:
+cuckootap/admin/configs.php
+
+2013.04.23 - version 2.7
+
+* New Feature / Revolution Slider Added
+* New Feature / WooCommerce Navigation Bar Unit Added
+* New Feature / HTML Text Unit Added
+* New Feature / 3 Header Options Added
+* Updated Po/Mo Files
+* Minor Bug Fix
+
+Added Folder:
+cuckootap/framework
+
+Updated PO File:
+cuckootap/lang/default.po
+
+Updated CSS Files:
+cuckootap/style.css
+cuckootap/admin/css/style.css
+cuckootap/admin/woo/css/style.css
+
+Updated JS Files:
+cuckootap/js/theme_settings.js
+cuckootap/js/jquery.cuckoo-scroll.js
+cuckootap/admin/js/admin.js
+cuckootap/admin/js/slider.js
+cuckootap/admin/js/clone.js
+
+Updated PHP Files:
+cuckootap/home.php
+cuckootap/header.php
+cuckootap/functions.php
+cuckootap/templates/fonts.php
+cuckootap/templates/main_slideshow.php
+cuckootap/admin/configs.php
+cuckootap/admin/default.php
+cuckootap/admin/admin-ini.php
+cuckootap/admin/admin-functions.php
+cuckootap/admin/pages/admin-builder.php
+cuckootap/admin/pages/admin-slideshow.php
+cuckootap/admin/pages/admin-header_footer.php
+
+2013.03.15 - version 2.6
+
+* WooCommerce V2.0.x Compatible
+* Minor Bug Fix
+
+Updated CSS Files:
+cuckootap/style.css
+cuckootap/admin/woo/css/style.css
+
+Updated JS Files:
+cuckootap/admin/woo/js/jquery.woo.js
+
+Updated PHP Files:
+cuckootap/functions.php
+cuckootap/admin/configs.php
+cuckootap/admin/woo/inc.php
+cuckootap/templates/fonts.php
+
+2013.03.01 - version 2.5
+
+* New Feature / Logo Box Color Group Added
+* Minor Bug Fix
+
+Updated CSS Files:
+cuckootap/style.css
+cuckootap/css/nivo-slider.css
+cuckootap/admin/woo/css/style.css
+
+Updated JS Files:
+cuckootap/admin/woo/js/jquery.woo.js
+cuckootap/js/jquery.cuckoo-scroll.js
+
+Updated PHP Files:
+cuckootap/home.php
+cuckootap/search.php
+cuckootap/admin/configs.php
+cuckootap/admin/woo/inc.php
+cuckootap/admin/works-testimonials-class.php
+cuckootap/admin/pages/admin-builder.php
+cuckootap/admin/pages/admin-color_styles.php
+cuckootap/admin/pages/admin-gallery.php
+cuckootap/templates/fonts.php
+cuckootap/style/style.php
+
+2013.02.21 - version 2.4
+
+* New Feature / SinceVersion 2.4 CuckooTap is WooCommerce Ready
+* New Feature / WooCommerce Homepage Unit Added
+* New Feature / New Scroll Effect Added
+* Minor Bug Fix
+
+Added Folder:
+cuckootap/admin/woo
+
+Added JS file:
+cuckootap/js/jquery.nicescroll.js
+
+Updated CSS Files:
+cuckootap/style.css
+cuckootap/admin/css/admin.css
+cuckootap/css/screens-media.css
+
+Updated JS Files:
+cuckootap/js/theme_settings.js
+cuckootap/js/jquery.cuckoo-scroll.js
+cuckootap/admin/shortcodes/settings/shortcodes.js
+cuckootap/admin/js/admin.js
+cuckootap/admin/js/clone.js
+
+Updated PHP Files:
+cuckootap/home.php
+cuckootap/functions.php
+cuckootap/admin/configs.php
+cuckootap/admin/default.php
+cuckootap/admin/admin-ini.php
+cuckootap/admin/admin-hooks.php
+cuckootap/admin/admin-functions.php
+cuckootap/admin/pages/admin-builder.php
+cuckootap/admin/pages/admin-slideshow.php
+cuckootap/templates/fonts.php
+cuckootap/style/style.php
+
+Deleted Files:
+cuckootap/js/pinterest-shortcodes.js
+cuckootap/admin/shortcodes/social button/pinit-market_shortcodes.php
+
+2013.02.09 - version 2.3
+
+* New Feature / Contact Unit Background Toggle Switch Added
+* Minor Bug Fix
+
+Updated CSS Files:
+cuckootap/style.css
+
+Updated JS Files:
+cuckootap/js/theme_settings.js
+cuckootap/js/form-ajax.js
+cuckootap/admin/js/slider.js
+
+Updated PHP Files:
+cuckootap/home.php
+cuckootap/templates/map.php
+cuckootap/admin/configs.php
+cuckootap/admin/default.php
+cuckootap/admin/admin-functions.php
+cuckootap/admin/pages/admin-contact.php
+cuckootap/admin/pages/admin-social.php
+
+2013.02.08 - version 2.2
+
+* Contact form bug fixed
+* Minor Bug Fix
+
+Added JS file:
+cuckootap/js/form-ajax.js
+
+Updated CSS Files:
+cuckootap/style.css
+
+Updated PHP Files:
+cuckootap/functions.php
+cuckootap/templates/contact_form.php
+cuckootap/admin/configs.php
+cuckootap/admin/default.php
+cuckootap/admin/works.php
+cuckootap/admin/admin-functions.php
+
+2013.02.02 - version 2.1
+
+* Minor Bug Fix
+
+Updated CSS Files:
+cuckootap/style.css
+
+Updated PHP Files:
+cuckootap/header.php
+cuckootap/template-team.php
+cuckootap/admin/configs.php
+cuckootap/admin/pages/admin-builder.php
+cuckootap/admin/admin-functions.php
+cuckootap/admin/testimonials.php
+cuckootap/loop/totalcomments-social-block.php
+
+Updated JS Files:
+cuckootap/js/jquery.cuckoo-scroll.js
+
+2013.01.29 - version 2.0
+
+* New Feature / Parallax Background Effect Added
+* New Feature / Child Theme Added for a More Flexible Theme Customization
+* New Functionalities for Homepage Works Gallery Unit Added
+* Minor Bug Fix
+
+Updated CSS Files:
+cuckootap/style.css
+cuckootap/admin/css/admin.css
+
+Updated PHP Files:
+cuckootap/home.php
+cuckootap/footer.php
+cuckootap/loop/total/template-header.php
+cuckootap/loop/post/single-header.php
+cuckootap/loop/work/single-header.php
+cuckootap/admin/configs.php
+cuckootap/admin/default.php
+cuckootap/admin/pages/admin-builder.php
+cuckootap/admin/pages/admin-color_styles.php
+cuckootap/admin/pages/admin-gallery.php
+
+Updated JS Files:
+cuckootap/admin/js/clone.js
+cuckootap/js/jquery.cuckoo-scroll.js
+cuckootap/admin/js/admin.js
+
+2013.01.23 - version 1.9
+
+* New Feature / Social Media Shortcodes Added: Facebook Box, Twitter Box, Flickr Box
+* New Feature / Slideshow Overlay Effect Turn On/Off Functionality Added
+* New Feature / Contact Form with Math Anti-Spam Protection
+* Contact Form Compatibility Issues Fixed
+* Typography Shortcodes Update
+* Theme Preloader Update
+* Minor Bug Fix
+
+Added JS files:
+cuckootap/js/jquery.spin.js
+
+Added Folder:
+cuckootap/admin/shortcodes/social-box
+
+Updated CSS Files:
+cuckootap/style.css
+cuckootap/css/screens-media.css
+cuckootap/css/nivo-slider.css
+
+Updated PHP Files:
+cuckootap/header.php
+cuckootap/templates/fonts.php
+cuckootap/templates/contact_form.php
+cuckootap/templates/main_slideshow.php
+cuckootap/loop/work/gallery.php
+cuckootap/admin/configs.php
+cuckootap/admin/default.php
+cuckootap/admin/admin-functions.php
+cuckootap/admin/admin-ini.php
+cuckootap/admin/pages/admin-color_styles.php
+cuckootap/admin/shortcodes/typography_shortcodes.php
+cuckootap/admin/shortcodes/table/pricing.php
+cuckootap/admin/shortcodes/slideshow/slideshow.php
+
+Updated JS Files:
+cuckootap/js/theme_settings.js
+cuckootap/admin/shortcodes/settings/shortcodes.js
+
+Deleted Files:
+cuckootap/js/modernizr.js
+cuckootap/js/jquery.form.js
+cuckootap/js/jquery.validate.pack.js
+
+2013.01.09 - version 1.8
+
+* Urgent Update / Contact Form Bug Fix
+* Minor Bug Fix
+
+Updated CSS Files:
+cuckootap/style.css
+
+Updated PHP Files:
+cuckootap/templates/fonts.php
+cuckootap/admin/configs.php
+cuckootap/admin/admin-functions.php
+cuckootap/admin/admin-ini.php
+
+Deleted folder:
+cuckootap/admin/widgets
+
+2013.01.08 - version 1.7
+
+* New Feature / Homepage Builder Update
+* Minor Bug Fix
+
+Updated CSS Files:
+cuckootap/style.css
+cuckootap/css/screens-media.css
+cuckootap/css/nivo-slider.css
+cuckootap/admin/css/admin.css
+
+Updated JS Files:
+cuckootap/js/theme_settings.js
+cuckootap/admin/js/clone.js
+
+Updated PHP Files:
+cuckootap/header.php
+cuckootap/archive.php
+cuckootap/home.php
+cuckootap/template-team.php
+cuckootap/admin/configs.php
+cuckootap/admin/default.php
+cuckootap/admin/pages/admin-builder.php
+cuckootap/loop/team/content.php
+
+2013.01.03 - version 1.6
+
+* New Feature / Responsivity Toggle Switch Added
+* Minor Bug Fix
+
+Added BebasNeue font files:
+cuckootap/admin/font/bebasneue-webfont.eot
+cuckootap/admin/font/bebasneue-webfont.ttf
+cuckootap/admin/font/bebasneue-webfont.woff
+
+Added JS files:
+cuckootap/admin/js/cuckoothemes.js
+
+Updated CSS Files:
+cuckootap/style.css
+cuckootap/css/screens-media.css
+cuckootap/css/nivo-slider.css
+cuckootap/css/fonts.css
+
+Updated PHP Files:
+cuckootap/admin/configs.php
+cuckootap/admin/default.php
+cuckootap/admin/pages/admin-framework.php
+cuckootap/admin/admin-functions.php
+cuckootap/templates/fonts.php
+cuckootap/templates/main_slideshow.php
+
+Updated JS Files:
+cuckootap/js/theme_settings.js
+cuckootap/js/jquery.nivo.slider.js
+
+2012.12.27 - version 1.5
+
+* Light Color Style Added 
+* Light & Dark Color Style Switcher Added
+* Theme Fonts / New Customizable Font Groups Added: Dropdown Menu Font, Footer Font
+* Color Styles / New Customizable Elements Added: Related Works Unit Background, Related Posts Unit Background, Footer Background
+* New Feature / Thumbnail Line Effect Turn On/Off Functionality Added
+* New Feature / Social Media & Search Bar Turn On/Off Functionality Added
+* Minor Bug Fix
+
+Added PHP files:
+cuckootap/style/style.php
+
+Added CSS files:
+cuckootap/style/light.css
+
+Added Folder:
+cuckootap/style/light
+
+Added Image:
+cuckootap/images/background_white.png
+
+Deleted Files:
+cuckootap/css/iphone5.css
+
+Updated CSS Files:
+cuckootap/style.css
+cuckootap/css/screens-media.css
+cuckootap/css/nivo-slider.css
+
+Updated PHP Files:
+cuckootap/admin/configs.php
+cuckootap/admin/default.php
+cuckootap/admin/pages/admin-framework.php
+cuckootap/admin/pages/admin-social.php
+cuckootap/admin/pages/admin-fonts.php
+cuckootap/admin/pages/admin-color_styles.php
+cuckootap/loop/total/socialmedia-search.php
+cuckootap/loop/post/related.php
+cuckootap/templates/fonts.php
+cuckootap/functions.php
+
+Updated JS Files:
+cuckootap/js/theme_settings.js
+cuckootap/admin/js/slider.js
+
+2012.12.19 - version 1.4
+
+* CuckooLove Rating System Added
+* Minor Bug Fix
+
+Added Folder:
+cuckootap/cuckoolove
+
+Added Image:
+cuckootap/admin/icones/icon-love.png
+
+Updated CSS Files:
+cuckootap/style.css
+cuckootap/css/screens-media.css
+cuckootap/admin/css/icones.css
+
+Updated PHP Files:
+cuckootap/admin/configs.php
+cuckootap/function.php
+cuckootap/loop/work/gallery.php
+cuckootap/admin/shortcodes/typography_shortcodes.php
+
+Updated JS Files:
+cuckootap/js/jquery.cuckoo-scroll.js
+cuckootap/admin/shortcodes/settings/shortcodes.js
+
+2012.12.15 - version 1.3
+
+* Fixed WordPress 3.5 Compatibility Issues
+
+Updated CSS Files:
+cuckootap/style.css
+
+Updated PHP Files:
+cuckootap/admin/configs.php
+
+2012.12.12 - version 1.2
+
+* Retina Display Support
+* Responsivity Issue Fix
+* Minor Bug Fix
+
+Added Folder:
+cuckootap/images/retina
+
+Updated PHP Files:
+cuckootap/admin/pages/admin-slideshow.php
+cuckootap/admin/pages/admin-builder.php
+cuckootap/admin/pages/admin-color_styles.php
+cuckootap/admin/configs.php
+cuckootap/home.php
+cuckootap/templates/fonts.php
+cuckootap/templates/main_slideshow.php
+
+Updated CSS Files:
+cuckootap/style.css
+cuckootap/css/screens-media.css
+cuckootap/css/nivo-slider.css
+
+Updated JS Files:
+cuckootap/js/theme_settings.js
+cuckootap/js/jquery.cuckoo-scroll.js
+
+2012.12.04 - version 1.1
+
+* Blog 3 Columns Template Added
+* Homepage Builder Page Unit Functionality Updated
+* Responsivity Updated
+* Minor Bugs Fix
+* Documentation File Updated
+
+Added PHP Files:
+cuckootap/template-blog2.php
+cuckootap/loop/post/blog2-header.php
+
+Updated CSS Files:
+cuckootap/style.css
+cuckootap/css/screens-media.css
+cuckootap/admin/css/admin.css
+
+Updated JS Files:
+cuckootap/admin/shortcodes/settings/shortcodes.js
+cuckootap/admin/js/clone.js
+
+Updated PHP Files:
+cuckootap/home.php
+cuckootap/admin/pages/admin-builder.php
+cuckootap/admin/admin-functions.php
+cuckootap/admin/shortcodes/video/video_shortcodes.php
+
+2012.11.28 - version 1.0
+
+* First release!

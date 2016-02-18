@@ -1,0 +1,1950 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CuckooTap\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-15 17:28+0200\n"
+"PO-Revision-Date: 2013-03-15 17:29+0200\n"
+"Last-Translator: cuckoothemes <mario@cuckoothemes.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "404"
+msgstr ""
+
+#: ../404.php:18
+msgid "Page not Found."
+msgstr ""
+
+#: ../404.php:20
+msgid "Apologies, but the page you requested could<br /> not be found. Perhaps searching will help."
+msgstr ""
+
+#: ../archive.php:20
+msgid "Works Archive"
+msgstr ""
+
+#: ../archive.php:22
+#: ../author.php:20
+#: ../category.php:18
+msgid "Blog Post Archives"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:32
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:34
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:36
+#, php-format
+msgid "Archives of &ldquo;%s&rdquo; Type"
+msgstr ""
+
+#: ../archive.php:102
+#: ../author.php:38
+#: ../category.php:37
+#: ../home.php:221
+#: ../search.php:62
+msgid "Continue reading"
+msgstr ""
+
+#: ../attachment.php:32
+#, php-format
+msgid "Published %2$s"
+msgstr ""
+
+#: ../attachment.php:39
+#, php-format
+msgid " by %2$s"
+msgstr ""
+
+#: ../attachment.php:47
+msgid "Edit"
+msgstr ""
+
+#: ../author.php:24
+#, php-format
+msgid "All Posts by %s"
+msgstr ""
+
+#: ../category.php:23
+#, php-format
+msgid "Archives of &ldquo;%s&rdquo; Category"
+msgstr ""
+
+#: ../comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:26
+msgid "Hide Comments"
+msgstr ""
+
+#: ../comments.php:26
+msgid "Show Comments"
+msgstr ""
+
+#: ../comments.php:30
+#, php-format
+msgid "Comments [%1$s]"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:64
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:66
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:68
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:69
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: ../footer.php:29
+msgid "Back to Top"
+msgstr ""
+
+#: ../functions.php:75
+msgid "Header Navigation"
+msgstr ""
+
+#: ../functions.php:76
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../functions.php:223
+#, php-format
+msgid "%s on "
+msgstr ""
+
+#: ../functions.php:225
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:232
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:232
+msgid " said:"
+msgstr ""
+
+#: ../functions.php:232
+msgid "[Edit]"
+msgstr ""
+
+#: ../functions.php:253
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:253
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:270
+#, php-format
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr ""
+
+#: ../functions.php:283
+msgid " in "
+msgstr ""
+
+#: ../functions.php:289
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../functions.php:306
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../functions.php:308
+#, php-format
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../functions.php:310
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../header.php:69
+msgid "Menu"
+msgstr ""
+
+#: ../header.php:71
+msgid "Menu Up"
+msgstr ""
+
+#: ../header.php:77
+msgid "Menu Down"
+msgstr ""
+
+#: ../home.php:354
+#: ../home.php:357
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../search.php:20
+msgid "Search Results"
+msgstr ""
+
+#: ../search.php:24
+#, php-format
+msgid "Search Results for: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../search.php:40
+msgid "Posted in "
+msgstr ""
+
+#: ../search.php:56
+msgid "No Comments"
+msgstr ""
+
+#: ../search.php:56
+msgid "1 Comment"
+msgstr ""
+
+#: ../search.php:56
+msgid "% Comments"
+msgstr ""
+
+#: ../tag.php:23
+#, php-format
+msgid "Posts Tagged &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../admin/admin-functions.php:44
+msgid "Search"
+msgstr ""
+
+#: ../admin/admin-functions.php:171
+msgid "<b>No Categories</b>"
+msgstr ""
+
+#: ../admin/admin-functions.php:175
+msgid "<b>No Types</b>"
+msgstr ""
+
+#: ../admin/admin-functions.php:477
+msgid "Please fill in all required fields!"
+msgstr ""
+
+#: ../admin/admin-functions.php:500
+msgid "Your Message Sent Successfully!"
+msgstr ""
+
+#: ../admin/admin-functions.php:503
+msgid "An error has occurred while sending your email!"
+msgstr ""
+
+#: ../admin/admin-hooks.php:13
+#: ../admin/admin-hooks.php:75
+msgid "Homepage Builder"
+msgstr ""
+
+#: ../admin/admin-hooks.php:14
+#: ../admin/admin-hooks.php:76
+msgid "Header & Footer"
+msgstr ""
+
+#: ../admin/admin-hooks.php:15
+#: ../admin/admin-hooks.php:77
+msgid "Color Settings"
+msgstr ""
+
+#: ../admin/admin-hooks.php:16
+#: ../admin/admin-hooks.php:78
+msgid "Theme Fonts"
+msgstr ""
+
+#: ../admin/admin-hooks.php:17
+#: ../admin/admin-hooks.php:79
+msgid "Slideshow Player"
+msgstr ""
+
+#: ../admin/admin-hooks.php:18
+#: ../admin/admin-hooks.php:80
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: ../admin/admin-hooks.php:20
+#: ../admin/admin-hooks.php:82
+msgid "Social Media"
+msgstr ""
+
+#: ../admin/admin-hooks.php:21
+#: ../admin/admin-hooks.php:83
+msgid "Contact Information"
+msgstr ""
+
+#: ../admin/admin-hooks.php:24
+#: ../admin/admin-hooks.php:86
+msgid "WooCommerce"
+msgstr ""
+
+#: ../admin/admin-hooks.php:32
+msgid "Theme Update"
+msgstr ""
+
+#: ../admin/framework-inc.php:30
+msgid "CuckooThemes Framework V"
+msgstr ""
+
+#: ../admin/team.php:21
+msgid "Team Member Details"
+msgstr ""
+
+#: ../admin/testimonials.php:21
+msgid "Testimonial Author"
+msgstr ""
+
+#: ../admin/testimonials.php:33
+msgid "Add Image"
+msgstr ""
+
+#: ../admin/works.php:21
+msgid "Project Content"
+msgstr ""
+
+#: ../admin/elemets/custom-galleries.php:37
+msgid "When using Portfolio 2 Columns by Work Type template or Portfolio 4 Columns by Work Type template, choose Type of Work from Work Types dropdown menu."
+msgstr ""
+
+#: ../admin/elemets/custom-galleries.php:81
+msgid "Portfolio by Work Type"
+msgstr ""
+
+#: ../admin/elemets/custom-galleries.php:92
+#: ../admin/elemets/custom-galleries.php:93
+msgid "Gallery by Type"
+msgstr ""
+
+#: ../admin/elemets/sidebar-position.php:51
+msgid "<center>This template does not contain any sidebars.</center>"
+msgstr ""
+
+#: ../admin/elemets/sidebar-position.php:88
+#: ../admin/elemets/sidebar-position.php:89
+#: ../admin/elemets/sidebar-position.php:90
+msgid "Choose Sidebar"
+msgstr ""
+
+#: ../admin/elemets/sidebar-position.php:132
+#: ../admin/elemets/sidebar-position.php:133
+msgid "Sidebars"
+msgstr ""
+
+#: ../admin/elemets/sidebar-settings.php:18
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../admin/elemets/sidebar-settings.php:29
+msgid "Light | Column 1"
+msgstr ""
+
+#: ../admin/elemets/sidebar-settings.php:40
+msgid "Light | Column 2"
+msgstr ""
+
+#: ../admin/elemets/sidebar-settings.php:51
+msgid "Light | Column 3"
+msgstr ""
+
+#: ../admin/elemets/sidebar-settings.php:62
+msgid "Light | Column 4"
+msgstr ""
+
+#: ../admin/elemets/sidebar-settings.php:73
+msgid "Dark | Column 1"
+msgstr ""
+
+#: ../admin/elemets/sidebar-settings.php:84
+msgid "Dark | Column 2"
+msgstr ""
+
+#: ../admin/elemets/sidebar-settings.php:95
+msgid "Dark | Column 3"
+msgstr ""
+
+#: ../admin/elemets/sidebar-settings.php:106
+msgid "Dark | Column 4"
+msgstr ""
+
+#: ../admin/elemets/sidebar-settings.php:317
+msgid "Sidebars is disabled for this group of pages. Please check your Sidebar Settings."
+msgstr ""
+
+#: ../admin/elemets/subtitle.php:57
+#: ../admin/elemets/subtitle.php:58
+msgid "Subtitle"
+msgstr ""
+
+#: ../admin/elemets/testimonials-excerpt-mod.php:20
+#: ../admin/elemets/testimonials-excerpt-mod.php:27
+msgid "Excerpt"
+msgstr ""
+
+#: ../admin/elemets/works-layout.php:75
+msgid "Choose Work Layout"
+msgstr ""
+
+#: ../admin/elemets/works-layout.php:86
+#: ../admin/elemets/works-layout.php:87
+msgid "Work Layout"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:174
+msgid "New settings saved!"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:186
+msgid "Build Your Homepage"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:193
+msgid ""
+"Using CuckooTap WordPress Theme Homepage Builder you can build custom homepage layout. Add as many homepage units to your homepage as you want, they are unlimited. Drag any homepage unit to arrange the sequence as you wish. It is easy as 1-2-3!<br/><br/>\n"
+"\t\t\t\t\t\tTo Add New Homepage Unit click Add Unit button and a new unit below all units will appear.<br /> \n"
+"\t\t\t\t\t\tTo change any floating unit position drag selected unit up or down by using Drag button.<br /> \n"
+"\t\t\t\t\t\tIf you want you can add a Custom Background Image or set Custom Color for this unit.<br /> \n"
+"\t\t\t\t\t\tTo delete unit click Delete button and then click Save button. "
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:224
+#: ../admin/pages/admin-builder.php:548
+#: ../admin/pages/admin-builder.php:554
+msgid "Unit Title"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:228
+#: ../admin/pages/admin-builder.php:558
+msgid "Unit Slug"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:232
+#: ../admin/pages/admin-builder.php:562
+msgid "Unit Source"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:248
+#: ../admin/pages/admin-builder.php:577
+msgid "Enter Number of Testimonials to Display"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:252
+#: ../admin/pages/admin-builder.php:271
+#: ../admin/pages/admin-builder.php:311
+#: ../admin/pages/admin-builder.php:353
+#: ../admin/pages/admin-builder.php:440
+#: ../admin/pages/admin-builder.php:581
+#: ../admin/pages/admin-builder.php:596
+#: ../admin/pages/admin-builder.php:611
+#: ../admin/pages/admin-builder.php:645
+msgid "Choose Sorting"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:267
+#: ../admin/pages/admin-builder.php:592
+msgid "Enter Number of Team Members to Display"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:286
+msgid "Choose Blog Posts Unit Content"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:296
+msgid "Choose Posts Category to be displayed in Homepage Blog Posts Unit."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:300
+#: ../admin/pages/admin-builder.php:630
+msgid "Exclude Posts Categories"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:303
+#: ../admin/pages/admin-builder.php:633
+msgid "Enter a comma-separated list of Posts Categories that you want to exclude from displaying in Homepage Blog Posts Unit. Example: Category1, Category2, Category3"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:307
+#: ../admin/pages/admin-builder.php:607
+msgid "Enter Number of Posts to Display"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:327
+#: ../admin/pages/admin-builder.php:653
+msgid "Choose Homepage Works Gallery Content"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:338
+#: ../admin/pages/admin-builder.php:663
+msgid "Choose Work Types to be displayed in Homepage Works Gallery Unit."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:342
+#: ../admin/pages/admin-builder.php:667
+msgid "Exclude Works Types"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:345
+#: ../admin/pages/admin-builder.php:670
+msgid "Enter a comma-separated list of Work Types that you want to exclude from displaying in Homepage Works Gallery Unit. Example: Type1, Type2, Type3."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:349
+#: ../admin/pages/admin-builder.php:641
+msgid "Enter Number of Works to Display"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:373
+msgid "Page content will be displayed on a Homepage in Page Unit. <br />Enter Page URL. Example: http://www.cuckoothemes.com/page. <br />Important! Only parent site pages content will be displayed."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:381
+#: ../admin/pages/admin-builder.php:684
+msgid "Enter Your Text"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:385
+#: ../admin/pages/admin-builder.php:688
+msgid "Enter Button Title"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:387
+#: ../admin/pages/admin-builder.php:690
+msgid "Enter Button URL"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:393
+#: ../admin/pages/admin-builder.php:696
+msgid "Choose Social Media Icons to Display"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:406
+msgid "Choose WooCommerce Unit Content"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:417
+msgid "Choose between Products or Categories to be displayed in Homepage WooCommerce Unit."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:421
+msgid "Choose Product Category"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:432
+msgid "Choose Product Category to be displayed in Homepage WooCommerce Unit."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:436
+msgid "Enter Number of Products/Categories to Display"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:452
+msgid "Display Order"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:467
+#: ../admin/pages/admin-builder.php:708
+msgid "Background"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:470
+#: ../admin/pages/admin-builder.php:474
+#: ../admin/pages/admin-builder.php:711
+msgid "Parallax Background"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:471
+#: ../admin/pages/admin-builder.php:473
+#: ../admin/pages/admin-builder.php:710
+msgid "Default Background"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:484
+#: ../admin/pages/admin-builder.php:720
+msgid "Position"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:494
+#: ../admin/pages/admin-builder.php:726
+msgid "Repeat"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:504
+#: ../admin/pages/admin-builder.php:732
+msgid "Attachment"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:515
+#: ../admin/pages/admin-builder.php:739
+msgid "Scrolling Speed"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:521
+#: ../admin/pages/admin-builder.php:745
+msgid "Background Color"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:619
+msgid "Choose Post Unit Content"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:626
+msgid "Choose Posts Category to be displayed in Homepage Post Unit."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:677
+msgid "Page content will be displayed on a Homepage in Page Unit. <br />Enter Page URL. Example: http://www.cuckoothemes.com/page.<br />Important! Only parent site pages content will be displayed."
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:128
+msgid ""
+"Choose which theme element group you want to customize.<br />\n"
+"\t\t\t\t\t\t\t\tEnter custom color number or click Select a Color button and choose color in a color picker panel.<br />\n"
+"\t\t\t\t\t\t\t\tPick color you need and again click Select a Color button.<br /> \n"
+"\t\t\t\t\t\t\t\tClick Save button after all settings are done.<br /> \n"
+"\t\t\t\t\t\t\t\tClick Reset to Default Settings button to restore default color settings."
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:136
+msgid "Theme Elements Style"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:137
+#: ../admin/pages/admin-fonts.php:328
+msgid "Reset to Default Settings"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:143
+msgid " Display 1 px border on images, thumbnails, social media icons and other elements."
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:148
+msgid " Display Slideshow Overlay Effect."
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:154
+msgid "Main Colors"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:161
+msgid "Primary Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:169
+msgid "Secondary Color #1"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:177
+msgid "Secondary Color #2"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:188
+msgid "Secondary Color #3"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:196
+msgid "Selection Background Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:204
+msgid "Selection Font Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:215
+msgid "Logo Box Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:223
+msgid "Logo Box Shadow Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:225
+msgid "In Minimized Versions Only"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:232
+msgid "Lightbox Background Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:243
+msgid "Default Theme Background"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:249
+#: ../admin/pages/admin-color_styles.php:518
+#: ../admin/pages/admin-color_styles.php:591
+#: ../admin/pages/admin-color_styles.php:664
+msgid "Upload custom background image, set display properties for it. Or leave it blank, and default theme background image will be displayed."
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:316
+msgid "Button Color Settings"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:323
+msgid "Default Button Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:331
+msgid "Map Button Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:339
+msgid "Reply Button Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:350
+msgid "Comment Background Colors"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:357
+msgid "Comment Background Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:365
+msgid "Child Comment Background"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:373
+msgid "Reply Unit Background Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:384
+msgid "Line Colors"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:391
+msgid "Subtitle Box Line Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:399
+msgid "Comment Title Line Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:407
+msgid "Default Line Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:418
+msgid "White Link Colors"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:425
+#: ../admin/pages/admin-color_styles.php:459
+msgid "Static"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:433
+#: ../admin/pages/admin-color_styles.php:467
+#: ../admin/pages/admin-color_styles.php:493
+msgid "Hover"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:441
+#: ../admin/pages/admin-color_styles.php:475
+#: ../admin/pages/admin-color_styles.php:501
+msgid "Visited"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:452
+msgid "Body Link Colors"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:486
+msgid "Default Link Colors"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:512
+msgid "Related Works Background Settings"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:585
+msgid "Related Posts Background Settings"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:658
+msgid "Footer Background Settings"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:70
+msgid "Contact Unit Display Settings"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:76
+msgid "Enter Contact Unit Title"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:80
+msgid "Enter a Title for Contact Unit, if needed."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:85
+msgid "Display in Homepage"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:88
+msgid "Display in Landing Pages"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:91
+msgid "Check boxes if you want Contact Unit to be displayed in Homepage and in Landing Pages."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:105
+msgid "Enter Address"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:108
+msgid "Enter your Address. It will be displayed in the Contact Unit of Homepage and Landing Pages."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:112
+msgid "Enter Contact Details"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:115
+msgid "Enter your Phone, Mobile Phone and Fax Numbers. It will be displayed in the Contact Unit."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:123
+msgid "Enter Primary Email Address"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:127
+msgid "Email address will be displayed in Contact Unit as your primary contact."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:132
+msgid "Enter Contact Form Email Address"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:136
+msgid ""
+"All messages sent using contact form in Contact Unit will be delivered to this email address. \n"
+"\t\t\t\t\t\t\t\tIf left blank, WordPress administrator's email address will be used."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:146
+msgid "Enter Website Address"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:150
+msgid "Website address will be displayed in Contact Unit."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:163
+msgid "Display Social Media Icons?"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:168
+#: ../admin/pages/admin-contact.php:174
+#: ../admin/pages/admin-framework.php:85
+#: ../admin/pages/admin-framework.php:89
+#: ../admin/pages/admin-slideshow.php:189
+#: ../admin/pages/admin-slideshow.php:194
+msgid "Yes"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:169
+#: ../admin/pages/admin-contact.php:175
+#: ../admin/pages/admin-framework.php:86
+#: ../admin/pages/admin-framework.php:90
+#: ../admin/pages/admin-slideshow.php:190
+#: ../admin/pages/admin-slideshow.php:193
+msgid "No"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:182
+msgid "Social Media Icons will be displayed in Contact Unit below contact information in the same sequence as they are set in Social Media section of the framework."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:188
+msgid "Google Map"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:189
+msgid "Display Google Map"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:195
+msgid "Enter Your Address"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:199
+msgid "Enter your address, and Google Map will be displayed in the Contact Unit. Example: \"Minster Court, London SE1 7JB, United Kingdom\"."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:204
+msgid "Set Default Zoom Level"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:208
+msgid "Recommended value ranges from 5 to 15. If left blank, default value will be set on 15."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:216
+msgid "Contact Unit Background"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:321
+msgid ""
+"CuckooTap theme provides you with +500 custom fonts from Google.<br /> \n"
+"\t\t\t\t\t\t\t\tYou can also change a color for each font if needed.<br />\n"
+"\t\t\t\t\t\t\t\tClick Reset to Default Settings button to restore default font settings."
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:327
+msgid "Custom Fonts"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:333
+msgid "Slideshow Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:337
+#: ../admin/pages/admin-fonts.php:443
+#: ../admin/pages/admin-fonts.php:549
+#: ../admin/pages/admin-fonts.php:655
+#: ../admin/pages/admin-fonts.php:761
+#: ../admin/pages/admin-fonts.php:868
+#: ../admin/pages/admin-fonts.php:975
+#: ../admin/pages/admin-fonts.php:1082
+#: ../admin/pages/admin-fonts.php:1189
+#: ../admin/pages/admin-fonts.php:1296
+#: ../admin/pages/admin-fonts.php:1403
+#: ../admin/pages/admin-fonts.php:1510
+#: ../admin/pages/admin-fonts.php:1617
+#: ../admin/pages/admin-fonts.php:1724
+#: ../admin/pages/admin-fonts.php:1831
+#: ../admin/pages/admin-fonts.php:1938
+#: ../admin/pages/admin-fonts.php:2045
+#: ../admin/pages/admin-fonts.php:2152
+#: ../admin/pages/admin-fonts.php:2259
+#: ../admin/pages/admin-fonts.php:2366
+#: ../admin/pages/admin-fonts.php:2473
+#: ../admin/pages/admin-fonts.php:2580
+#: ../admin/pages/admin-fonts.php:2687
+#: ../admin/pages/admin-fonts.php:2794
+#: ../admin/pages/admin-fonts.php:2901
+#: ../admin/pages/admin-fonts.php:3008
+#: ../admin/pages/admin-fonts.php:3115
+#: ../admin/pages/admin-fonts.php:3222
+#: ../admin/pages/admin-header_footer.php:160
+msgid "Font Family"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:369
+#: ../admin/pages/admin-fonts.php:475
+#: ../admin/pages/admin-fonts.php:581
+#: ../admin/pages/admin-fonts.php:687
+#: ../admin/pages/admin-fonts.php:793
+#: ../admin/pages/admin-fonts.php:900
+#: ../admin/pages/admin-fonts.php:1007
+#: ../admin/pages/admin-fonts.php:1114
+#: ../admin/pages/admin-fonts.php:1221
+#: ../admin/pages/admin-fonts.php:1328
+#: ../admin/pages/admin-fonts.php:1435
+#: ../admin/pages/admin-fonts.php:1542
+#: ../admin/pages/admin-fonts.php:1649
+#: ../admin/pages/admin-fonts.php:1756
+#: ../admin/pages/admin-fonts.php:1863
+#: ../admin/pages/admin-fonts.php:1970
+#: ../admin/pages/admin-fonts.php:2077
+#: ../admin/pages/admin-fonts.php:2184
+#: ../admin/pages/admin-fonts.php:2291
+#: ../admin/pages/admin-fonts.php:2398
+#: ../admin/pages/admin-fonts.php:2505
+#: ../admin/pages/admin-fonts.php:2612
+#: ../admin/pages/admin-fonts.php:2719
+#: ../admin/pages/admin-fonts.php:2826
+#: ../admin/pages/admin-fonts.php:2933
+#: ../admin/pages/admin-fonts.php:3040
+#: ../admin/pages/admin-fonts.php:3147
+#: ../admin/pages/admin-fonts.php:3254
+#: ../admin/pages/admin-header_footer.php:192
+msgid "Weight"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:384
+#: ../admin/pages/admin-fonts.php:490
+#: ../admin/pages/admin-fonts.php:596
+#: ../admin/pages/admin-fonts.php:702
+#: ../admin/pages/admin-fonts.php:808
+#: ../admin/pages/admin-fonts.php:915
+#: ../admin/pages/admin-fonts.php:1022
+#: ../admin/pages/admin-fonts.php:1129
+#: ../admin/pages/admin-fonts.php:1236
+#: ../admin/pages/admin-fonts.php:1343
+#: ../admin/pages/admin-fonts.php:1450
+#: ../admin/pages/admin-fonts.php:1557
+#: ../admin/pages/admin-fonts.php:1664
+#: ../admin/pages/admin-fonts.php:1771
+#: ../admin/pages/admin-fonts.php:1878
+#: ../admin/pages/admin-fonts.php:1985
+#: ../admin/pages/admin-fonts.php:2092
+#: ../admin/pages/admin-fonts.php:2199
+#: ../admin/pages/admin-fonts.php:2306
+#: ../admin/pages/admin-fonts.php:2413
+#: ../admin/pages/admin-fonts.php:2520
+#: ../admin/pages/admin-fonts.php:2627
+#: ../admin/pages/admin-fonts.php:2734
+#: ../admin/pages/admin-fonts.php:2841
+#: ../admin/pages/admin-fonts.php:2948
+#: ../admin/pages/admin-fonts.php:3055
+#: ../admin/pages/admin-fonts.php:3162
+#: ../admin/pages/admin-fonts.php:3269
+#: ../admin/pages/admin-header_footer.php:207
+msgid "Style"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:399
+#: ../admin/pages/admin-fonts.php:505
+#: ../admin/pages/admin-fonts.php:611
+#: ../admin/pages/admin-fonts.php:717
+#: ../admin/pages/admin-fonts.php:823
+#: ../admin/pages/admin-fonts.php:930
+#: ../admin/pages/admin-fonts.php:1037
+#: ../admin/pages/admin-fonts.php:1144
+#: ../admin/pages/admin-fonts.php:1251
+#: ../admin/pages/admin-fonts.php:1358
+#: ../admin/pages/admin-fonts.php:1465
+#: ../admin/pages/admin-fonts.php:1572
+#: ../admin/pages/admin-fonts.php:1679
+#: ../admin/pages/admin-fonts.php:1786
+#: ../admin/pages/admin-fonts.php:1893
+#: ../admin/pages/admin-fonts.php:2000
+#: ../admin/pages/admin-fonts.php:2107
+#: ../admin/pages/admin-fonts.php:2214
+#: ../admin/pages/admin-fonts.php:2321
+#: ../admin/pages/admin-fonts.php:2428
+#: ../admin/pages/admin-fonts.php:2535
+#: ../admin/pages/admin-fonts.php:2642
+#: ../admin/pages/admin-fonts.php:2749
+#: ../admin/pages/admin-fonts.php:2856
+#: ../admin/pages/admin-fonts.php:2963
+#: ../admin/pages/admin-fonts.php:3070
+#: ../admin/pages/admin-fonts.php:3177
+#: ../admin/pages/admin-fonts.php:3284
+#: ../admin/pages/admin-header_footer.php:222
+msgid "Size"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:416
+#: ../admin/pages/admin-fonts.php:522
+#: ../admin/pages/admin-fonts.php:628
+#: ../admin/pages/admin-fonts.php:734
+#: ../admin/pages/admin-fonts.php:840
+#: ../admin/pages/admin-fonts.php:947
+#: ../admin/pages/admin-fonts.php:1054
+#: ../admin/pages/admin-fonts.php:1161
+#: ../admin/pages/admin-fonts.php:1268
+#: ../admin/pages/admin-fonts.php:1375
+#: ../admin/pages/admin-fonts.php:1482
+#: ../admin/pages/admin-fonts.php:1589
+#: ../admin/pages/admin-fonts.php:1696
+#: ../admin/pages/admin-fonts.php:1803
+#: ../admin/pages/admin-fonts.php:1910
+#: ../admin/pages/admin-fonts.php:2017
+#: ../admin/pages/admin-fonts.php:2124
+#: ../admin/pages/admin-fonts.php:2231
+#: ../admin/pages/admin-fonts.php:2338
+#: ../admin/pages/admin-fonts.php:2445
+#: ../admin/pages/admin-fonts.php:2552
+#: ../admin/pages/admin-fonts.php:2659
+#: ../admin/pages/admin-fonts.php:2766
+#: ../admin/pages/admin-fonts.php:2873
+#: ../admin/pages/admin-fonts.php:2980
+#: ../admin/pages/admin-fonts.php:3087
+#: ../admin/pages/admin-fonts.php:3194
+#: ../admin/pages/admin-fonts.php:3301
+#: ../admin/pages/admin-header_footer.php:239
+msgid "Line Height"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:422
+#: ../admin/pages/admin-fonts.php:528
+#: ../admin/pages/admin-fonts.php:634
+#: ../admin/pages/admin-fonts.php:740
+#: ../admin/pages/admin-fonts.php:846
+#: ../admin/pages/admin-fonts.php:953
+#: ../admin/pages/admin-fonts.php:1060
+#: ../admin/pages/admin-fonts.php:1167
+#: ../admin/pages/admin-fonts.php:1274
+#: ../admin/pages/admin-fonts.php:1381
+#: ../admin/pages/admin-fonts.php:1488
+#: ../admin/pages/admin-fonts.php:1595
+#: ../admin/pages/admin-fonts.php:1702
+#: ../admin/pages/admin-fonts.php:1809
+#: ../admin/pages/admin-fonts.php:1916
+#: ../admin/pages/admin-fonts.php:2023
+#: ../admin/pages/admin-fonts.php:2130
+#: ../admin/pages/admin-fonts.php:2237
+#: ../admin/pages/admin-fonts.php:2344
+#: ../admin/pages/admin-fonts.php:2451
+#: ../admin/pages/admin-fonts.php:2558
+#: ../admin/pages/admin-fonts.php:2665
+#: ../admin/pages/admin-fonts.php:2772
+#: ../admin/pages/admin-fonts.php:2879
+#: ../admin/pages/admin-fonts.php:2986
+#: ../admin/pages/admin-fonts.php:3093
+#: ../admin/pages/admin-fonts.php:3200
+#: ../admin/pages/admin-fonts.php:3307
+#: ../admin/pages/admin-header_footer.php:245
+msgid "Font Color"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:431
+#: ../admin/pages/admin-fonts.php:537
+#: ../admin/pages/admin-fonts.php:643
+#: ../admin/pages/admin-fonts.php:749
+#: ../admin/pages/admin-fonts.php:855
+#: ../admin/pages/admin-fonts.php:962
+#: ../admin/pages/admin-fonts.php:1069
+#: ../admin/pages/admin-fonts.php:1176
+#: ../admin/pages/admin-fonts.php:1283
+#: ../admin/pages/admin-fonts.php:1390
+#: ../admin/pages/admin-fonts.php:1497
+#: ../admin/pages/admin-fonts.php:1604
+#: ../admin/pages/admin-fonts.php:1711
+#: ../admin/pages/admin-fonts.php:1818
+#: ../admin/pages/admin-fonts.php:1925
+#: ../admin/pages/admin-fonts.php:2032
+#: ../admin/pages/admin-fonts.php:2139
+#: ../admin/pages/admin-fonts.php:2246
+#: ../admin/pages/admin-fonts.php:2353
+#: ../admin/pages/admin-fonts.php:2460
+#: ../admin/pages/admin-fonts.php:2567
+#: ../admin/pages/admin-fonts.php:2674
+#: ../admin/pages/admin-fonts.php:2781
+#: ../admin/pages/admin-fonts.php:2888
+#: ../admin/pages/admin-fonts.php:2995
+#: ../admin/pages/admin-fonts.php:3102
+#: ../admin/pages/admin-fonts.php:3209
+#: ../admin/pages/admin-fonts.php:3316
+#: ../admin/pages/admin-header_footer.php:254
+msgid "Suspendisse convallis"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:432
+#: ../admin/pages/admin-fonts.php:538
+#: ../admin/pages/admin-fonts.php:644
+#: ../admin/pages/admin-fonts.php:750
+#: ../admin/pages/admin-fonts.php:856
+#: ../admin/pages/admin-fonts.php:963
+#: ../admin/pages/admin-fonts.php:1070
+#: ../admin/pages/admin-fonts.php:1177
+#: ../admin/pages/admin-fonts.php:1284
+#: ../admin/pages/admin-fonts.php:1391
+#: ../admin/pages/admin-fonts.php:1498
+#: ../admin/pages/admin-fonts.php:1605
+#: ../admin/pages/admin-fonts.php:1712
+#: ../admin/pages/admin-fonts.php:1819
+#: ../admin/pages/admin-fonts.php:1926
+#: ../admin/pages/admin-fonts.php:2033
+#: ../admin/pages/admin-fonts.php:2140
+#: ../admin/pages/admin-fonts.php:2247
+#: ../admin/pages/admin-fonts.php:2354
+#: ../admin/pages/admin-fonts.php:2461
+#: ../admin/pages/admin-fonts.php:2568
+#: ../admin/pages/admin-fonts.php:2675
+#: ../admin/pages/admin-fonts.php:2782
+#: ../admin/pages/admin-fonts.php:2889
+#: ../admin/pages/admin-fonts.php:2996
+#: ../admin/pages/admin-fonts.php:3103
+#: ../admin/pages/admin-fonts.php:3210
+#: ../admin/pages/admin-fonts.php:3317
+#: ../admin/pages/admin-header_footer.php:255
+msgid "Suspendisse convallis nibh sed nulla scelerisque varius. Aliquam gravida fringilla ultrices. Etiam consectetur dui id lacus malesuada molestie."
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:439
+msgid "Slideshow Subtitle"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:545
+msgid "Post, Work & Page Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:651
+msgid "Post, Work & Page Subtitle Line"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:757
+msgid "Title of Homepage Builder Unit"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:864
+msgid "Font of Text Box and Testimonial Unit"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1078
+msgid "Navigation Menus"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1185
+msgid "Dropdown Menus"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1292
+msgid "Button Title Font"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1399
+msgid "Body Font"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1506
+msgid "Post and Work Details Font"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1613
+msgid "Alerts Font"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1720
+msgid "Blog Post and Team Member Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1827
+msgid "Team Member's Occupation Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1934
+msgid "Team & Testimonial Body Font"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2041
+msgid "Post Tags, Team Member \"Follow Me\", Testimonial \"Company Name\""
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2148
+msgid "Work Thumbnail Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2255
+msgid "Work Thumbnail Subtitle (Work Type)"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2362
+msgid "Comments Unit Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2469
+msgid "Reply Unit Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2576
+msgid "Header 1"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2683
+msgid "Header 2"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2790
+msgid "Header 3"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2897
+msgid "Header 4"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:3004
+msgid "Header 5"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:3111
+msgid "Lightbox Title Font"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:3218
+msgid "Footer Font"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:43
+#: ../admin/pages/admin-header_footer.php:110
+#: ../admin/pages/admin-sidebars.php:105
+#: ../admin/pages/admin-slideshow.php:97
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:47
+msgid "Theme Color Styles"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:53
+msgid "Choose Theme Color Style"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:68
+msgid ""
+"Choose the style you want to use for this theme. After you choose, click Save button to activate new Style.\n"
+"\t\t\t\t\t\t\t\tPlease remember that theme Color Style change will reset all your Google Fonts and Color Settings to default."
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:77
+msgid "Responsivity Settings"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:82
+msgid "Activate Responsivity"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:97
+msgid "Related Content"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:104
+msgid "Related Works"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:110
+#: ../admin/pages/admin-framework.php:117
+msgid "Display Related Works"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:111
+#: ../admin/pages/admin-framework.php:116
+msgid "Hide Related Works"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:122
+msgid "Related Works will be displayed below each work in a single work page."
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:127
+msgid "Enter a Title for Related Works Unit"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:137
+msgid "Related Posts"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:143
+#: ../admin/pages/admin-framework.php:150
+msgid "Display Related Posts"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:144
+#: ../admin/pages/admin-framework.php:149
+msgid "Hide Related Posts"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:155
+msgid "Related posts will be displayed below each post in a single post page."
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:160
+msgid "Enter a Title for Related Posts Unit"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:169
+msgid "Favicon"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:186
+msgid "Upload a 16 x 16 px *.png / *.gif / *.ico image that will be used as your website's favicon."
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:193
+msgid "Tracking Code"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:201
+msgid "Enter your Google Analytics (or other) tracking code here and get detailed statistics about the visitors of your website."
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:44
+msgid "Portfolio Page Templates"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:49
+msgid "The settings of this framework section will be applied to the following templates: Portfolio 2 Columns (thumbnail size 470x225 pixels) and Portfolio 4 Columns (thumbnail size 225x225 pixels)."
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:55
+msgid "Choose Default Portfolio Page Content"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:67
+msgid "Choose Type of Works to be displayed in Portfolio Page Templates by default."
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:72
+msgid "Exclude Types of Works"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:76
+msgid "Enter a comma-separated list of Types of Works that you want to exclude from displaying in Portfolio Page Templates. Example: Type1, Type2, Type3 "
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:84
+#: ../admin/pages/admin-gallery.php:115
+msgid "Choose Sorting of Works"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:89
+#: ../admin/pages/admin-gallery.php:94
+#: ../admin/pages/admin-gallery.php:120
+#: ../admin/pages/admin-gallery.php:125
+msgid "By Date"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:90
+#: ../admin/pages/admin-gallery.php:93
+#: ../admin/pages/admin-gallery.php:121
+#: ../admin/pages/admin-gallery.php:124
+msgid "Random"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:103
+msgid "Portfolio Templates by Work Type "
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:108
+msgid ""
+"The settings of this framework section will be applied to the following templates: \n"
+"\t\t\t\t\t\tPortfolio 2 Columns by Work Type (thumbnail size 470x225 pixels) and Portfolio 4 Columns by Work Type (thumbnail size 225x225 pixels). Using these templates you can build portfolio pages for a single work type."
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:103
+msgid "Header Settings"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:125
+msgid "CuckooTap theme allows you to display an image or plain text logo. Choose what type of logo you want to display."
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:135
+msgid "Plain Text Logo Settings"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:142
+msgid "Enter a Title for Your Logo"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:149
+msgid "Enter Your company name or any other word you like. Keep in mind that the logo area is limited up to 225 pixel width."
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:156
+msgid "Choose Font for Your Logo"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:266
+msgid "Image Logo"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:276
+#: ../admin/pages/admin-slideshow.php:251
+#: ../admin/pages/admin-slideshow.php:326
+msgid "Title"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:283
+#: ../admin/pages/admin-slideshow.php:258
+#: ../admin/pages/admin-slideshow.php:333
+msgid "Image URL"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:293
+msgid "Upload custom logo or paste logo URL . Recommended size for the logo is 210 x 60 pixels. Larger images will be resized."
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:302
+msgid "Footer Settings"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:307
+msgid ""
+"Using Line 1, Line 2 and Line 3 form fields you can add some texts and links in the footer.<br /> \n"
+"\t\t\t\t\t\t"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:314
+msgid "Line 1"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:318
+msgid "Line 2"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:322
+msgid "Line 3"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:96
+msgid "Sidebar names must by Unique!"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:112
+msgid "Useful Information"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:115
+msgid ""
+"Main Sidebar is set by default for Blog, Works, Search Pages and Other Pages. \n"
+"\t\t\t\t\t\tHere you can assign custom sidebar to each group of these pages. \n"
+"\t\t\t\t\t\tAlso you can create an unique sidebar and asign it to any page if needed. \n"
+"\t\t\t\t\t\tThis can be done in page or work or post editor page using our Choose Sidebar Panel.<br /><br />\n"
+"\t\t\t\t\t\tImportant! If a sidebar is disabled for some pages group, a custom sidebar assigned for a single page from this pages group will not be displayed.\n"
+"\t\t\t\t\t\t"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:125
+msgid "Choose Global Sidebar Positioning"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:131
+#: ../admin/pages/admin-sidebars.php:136
+msgid "Align to the LEFT"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:132
+#: ../admin/pages/admin-sidebars.php:135
+msgid "Align to the RIGHT"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:141
+msgid "Default sidebar positioning is set to the RIGHT."
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:150
+msgid "Choose Blog Sidebar"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:165
+msgid "Choose default sidebar to be displayed in Blog pages."
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:170
+msgid "Choose Works Pages Sidebar"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:185
+msgid "Choose default sidebar to be displayed in Works pages."
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:194
+msgid "Choose Search Page Sidebar"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:209
+msgid "Choose default sidebar to be displayed in Search page."
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:214
+msgid "Choose Other Pages Sidebar"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:229
+msgid "Choose default sidebar to be displayed in other pages."
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:240
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:242
+msgid "Add Sidebar"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:247
+msgid ""
+"Important! All Custom Sidebars must have unique names.<br /> \n"
+"\t\t\t\t\tWhen sidebar name is changed, all widget settings for this sidebar are cleared."
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:254
+msgid "Sidebar Name"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:104
+msgid "Choose Nivo Effect"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:116
+msgid "Choose Nivo Effect for your slideshow animation."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:121
+msgid "Choose Title Effect"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:133
+msgid "Choose animation effect for your Title Unit."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:141
+msgid "Slide Display Time"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:145
+msgid "Set time duration for moving to next slide. Default is set to 6000ms."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:150
+msgid "Animation Speed"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:154
+msgid "Set slide transition speed. Default is set to 1000ms."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:162
+msgid "Box Cols"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:166
+msgid "Set box cols for box animations."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:171
+msgid "Box Rows"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:175
+msgid "Set box rows for box animations."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:183
+msgid "Slideshow animation pause"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:199
+msgid "Select Yes if you want to pause slideshow animation when the mouse is over a slide."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:209
+msgid "Slides"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:216
+msgid ""
+"Click Add Slide button to add a new slide. \n"
+"\t\t\tUpload new image or choose an existing one from the Media Gallery by clicking the Upload Image button. \n"
+"\t\t\tEnter a Title for your slide (optional). When you have more than one slide, you can change slide sequence by dragging slides up or down. \n"
+"\t\t\tYou can also add a Title, Subtitle and Button for each slide and set an alignment for these element unit. \n"
+"\t\t\tIf you want to delete a slide, click Delete Slide button and then click Save button at the bottom of this framework page.<br /><br />\n"
+"\n"
+"\t\t\tThe recommended minimal image size for slideshow images is 1224 x 660 pixels. \n"
+"\t\t\tIf you use smaller images than recommended, we suggest you to use images of the same size to make animation flow smoothly."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:241
+msgid "Change Sequence"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:271
+#: ../admin/pages/admin-slideshow.php:346
+msgid "Enter Slide Title"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:275
+#: ../admin/pages/admin-slideshow.php:350
+msgid "Enter Slide Subtitle"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:286
+#: ../admin/pages/admin-slideshow.php:361
+msgid "Title Unit Alignment"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:316
+msgid "Change Sequenece"
+msgstr ""
+
+#: ../admin/pages/admin-social.php:124
+msgid "Social Media & Search Bar"
+msgstr ""
+
+#: ../admin/pages/admin-social.php:129
+msgid " Display Social Media & Search Bar in Landing pages."
+msgstr ""
+
+#: ../admin/pages/admin-social.php:134
+msgid "Share Your Content"
+msgstr ""
+
+#: ../admin/pages/admin-social.php:139
+msgid ""
+"Add Social Media functionality to your posts and works, and share your content in the most popular social networks. \n"
+"\t\t\t\t\t\tChoose Social Media Networks where you want to share your content, and share buttons will be displayed in each blog post and work page."
+msgstr ""
+
+#: ../admin/pages/admin-social.php:144
+msgid "Share Your Posts"
+msgstr ""
+
+#: ../admin/pages/admin-social.php:181
+msgid "Share Your Works"
+msgstr ""
+
+#: ../admin/pages/admin-social.php:220
+msgid "Link to Your Social Profiles"
+msgstr ""
+
+#: ../admin/pages/admin-social.php:225
+msgid ""
+"Add URLs to your Social Media Profiles, and Icons will be displayed in Homepage Social Media Unit, Contact Unit, \n"
+"\t\t\t\t\t\tand in the Header of all landing pages below the title area. All Icons will be arranged in the same sequence as they are displayed here. \n"
+"\t\t\t\t\t\tYou can change the sequence of the icons by dragging them up or down."
+msgstr ""
+
+#: ../admin/pages/admin-update.php:15
+msgid "Theme Updates"
+msgstr ""
+
+#: ../admin/pages/admin-update.php:36
+msgid "New Theme Update"
+msgstr ""
+
+#: ../admin/pages/admin-update.php:56
+msgid "Latest Version"
+msgstr ""
+
+#: ../admin/pages/admin-update.php:67
+msgid "Changelog"
+msgstr ""
+
+#: ../admin/pages/admin-update.php:78
+msgid "Not Connection!"
+msgstr ""
+
+#: ../admin/pages/admin-update.php:82
+msgid "<p>Error: Unable to fetch the changelog.</p>"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:159
+msgid "eShop Single Page Header Settings"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:165
+msgid "eShop Single Page Title"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:169
+msgid "Enter a Title that will be displayed in each single eShop page. If left blank, default title will be displayed."
+msgstr ""
+
+#: ../admin/woo/admin-page.php:174
+msgid "eShop Single Page Subtitle"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:178
+msgid "Enter a Subtitle that will be displayed in each single eShop page (optional)."
+msgstr ""
+
+#: ../admin/woo/admin-page.php:185
+msgid "Related Products"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:191
+msgid "Enter a Title for Related Products Unit"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:200
+msgid "Related Products Unit Background Settings"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:203
+msgid "Upload custom background image, set display properties for it. Or leave it blank, and default theme background image will be displayed. "
+msgstr ""
+
+#: ../admin/woo/admin-page.php:273
+msgid "Custom eShop Fonts"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:279
+msgid ""
+"CuckooTap theme provides you with +500 custom fonts from Google.<br /> \n"
+"\t\t\t\t\t\t\t\tAll these theme fonts can be managed using CuckooTap > Theme Fonts tab.<br />\n"
+"\t\t\t\t\t\t\t\tHere you can manage only the fonts that are used in Eshop only.<br />\n"
+"\t\t\t\t\t\t\t\tClick Reset to Default Settings button to restore default font settings."
+msgstr ""
+
+#: ../admin/woo/admin-page.php:288
+msgid "Sale Price Font"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:394
+msgid "Regular Price Font"
+msgstr ""
+
+#: ../admin/woo/inc.php:105
+msgid "Cart"
+msgstr ""
+
+#: ../admin/woo/inc.php:106
+#: ../admin/woo/inc.php:149
+msgid "Total"
+msgstr ""
+
+#: ../admin/woo/inc.php:107
+msgid "My Account"
+msgstr ""
+
+#: ../admin/woo/inc.php:108
+msgid "Checkout"
+msgstr ""
+
+#: ../admin/woo/inc.php:168
+#: ../admin/woo/inc.php:181
+msgid "Previous"
+msgstr ""
+
+#: ../admin/woo/inc.php:169
+#: ../admin/woo/inc.php:185
+msgid "Next"
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:54
+msgid "CuckooLove Display Settings"
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:59
+msgid "Display in Post"
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:62
+msgid "Display in Work"
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:65
+msgid "Check boxes above where do you want to add CuckooLove functionality."
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:72
+msgid "Shortcode and Template Tag"
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:104
+msgid "CuckooLove V"
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:225
+msgid " Love It"
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:228
+msgid "You Love It!"
+msgstr ""
+
+#: ../loop/alert/no-search.php:17
+msgid "Sorry, but nothing matched your search criteria.<br /> Please try again with some different keywords."
+msgstr ""
+
+#: ../loop/alert/no-works.php:17
+msgid "There are no items to display.<br /> Please add at least one work."
+msgstr ""
+
+#: ../loop/alert/page-password.php:25
+msgid "This PAGE is password protected.<br /> To view it please enter your password:"
+msgstr ""
+
+#: ../loop/alert/page-password.php:25
+#: ../loop/alert/post-password.php:25
+#: ../loop/alert/work-password.php:25
+msgid "Submit"
+msgstr ""
+
+#: ../loop/alert/post-password.php:25
+msgid "This POST is password protected.<br /> To view it please enter your password:"
+msgstr ""
+
+#: ../loop/alert/work-password.php:25
+msgid "This WORK post is password protected.<br /> To view it please enter your password:"
+msgstr ""
+
+#: ../loop/post/tags.php:18
+msgid "Tags"
+msgstr ""
+
+#: ../loop/team/content.php:49
+msgid "Follow me "
+msgstr ""
+
+#: ../loop/total/comments-social-block.php:71
+msgid "Comments"
+msgstr ""
+
+#: ../loop/total/load-more.php:15
+msgid "Load More"
+msgstr ""
+
+#: ../loop/work/portfolio-header.php:46
+msgid "Show All"
+msgstr ""
+
+#: ../templates/contact_form.php:23
+msgid "Name "
+msgstr ""
+
+#: ../templates/contact_form.php:29
+msgid "Email "
+msgstr ""
+
+#: ../templates/contact_form.php:35
+msgid "Your Message..."
+msgstr ""
+
+#: ../templates/contact_form.php:40
+msgid "Send Message"
+msgstr ""
+
+#: ../templates/contact_form.php:44
+msgid "Are You a Human?"
+msgstr ""
+
+#: ../templates/contact_form.php:46
+msgid "Enter the sum of "
+msgstr ""
+
+#: ../templates/contact_form.php:48
+msgid " below to prove you are a human."
+msgstr ""
+
+#: ../templates/map.php:98
+msgid "Map On"
+msgstr ""
+

@@ -1,0 +1,144 @@
+/**************
+* @package WordPress
+* @subpackage Cuckoothemes
+* @since Cuckoothemes 1.0
+* URL http://cuckoothemes.com
+**************
+*
+* Light Style CSS 
+*/
+
+/*-- Slider --*/
+.nivo-prevNav {
+	background: url('../style/light/slides_arrow_prev.png') 15px 50% no-repeat;
+	background-size:15px 30px;
+}
+.nivo-nextNav {
+	background: url('../style/light/slides_arrow_next.png') 35px 50% no-repeat;
+	background-size:15px 30px;
+}
+
+/*-- Navigation --*/
+.nav-close { 
+	background-size:40px; 
+	background: url('../style/light/nav_close.png') 50% 50% no-repeat; 
+}
+.nav_arrow-top-menu {
+	background: url('../style/light/nav_arrow_top.png') no-repeat;
+	background-size:16px 9px; 
+}
+.nav-next { 
+	background: url('../style/light/nav_arrow_top.png') 50% 50% no-repeat; 
+}
+.nav-prevous {
+	background: url('../style/light/nav_arrow_bottom.png') 50% 50% no-repeat; 
+}
+
+/* Button to Top */
+.back_to_top {
+	background: black url("../style/light/back_to_top.png") no-repeat center center;
+	background-size:30px 15px; 
+}
+
+/* Pages Title Arrows */
+.next-post-img { 
+	background:url('../style/light/slides_arrow_next.png') no-repeat; 
+	background-size:15px 30px;
+}
+.prev-post-img { 
+	background:url('../style/light/slides_arrow_prev.png') no-repeat; 
+	background-size:15px 30px;
+}
+
+/*-- Comment arrow --*/
+.comment-toggle { 
+	background: url('../style/light/arrow-top.png') no-repeat; 
+	background-size:30px 15px; 
+}
+.open-comment { 
+	background: url('../style/light/arrow-bottom.png') no-repeat; 
+	background-size:30px 15px;
+}
+
+/*-- Load More --*/
+.load-more { 
+	background: url('../style/light/load-more-arrow.png') no-repeat; 
+	background-size:30px 15px; 
+}
+
+/*-- Testimonials --*/
+.next-testimonial { background: url('../style/light/slides_arrow_next.png') 35px 50% no-repeat; }
+.prev-testimonial{  background: url('../style/light/slides_arrow_prev.png') 15px 50% no-repeat; }
+
+/*-- Small elements --*/
+@media screen and (max-width: 768px) {
+	.next-post-img { 
+		background:url('../style/light/small-prev.png') no-repeat!important; 
+		background-size:10px 17px; 
+	}
+	.prev-post-img { 
+		background:url('../style/light/small-next.png') no-repeat!important; 
+		background-size:10px 17px;
+	}
+}
+
+/*-- Preloaders --*/
+.sliderPreload {
+	background:url('../style/light/loader.gif') 50% 50% no-repeat;
+	background-size:31px;
+}
+
+/* Retina Display */
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2)      and (max-width: 768px),
+only screen and (   min--moz-device-pixel-ratio: 2)      and (max-width: 768px),
+only screen and (     -o-min-device-pixel-ratio: 2/1)    and (max-width: 768px),
+only screen and (        min-device-pixel-ratio: 2)      and (max-width: 768px),
+only screen and (                min-resolution: 192dpi) and (max-width: 768px),
+only screen and (                min-resolution: 2dppx)  and (max-width: 768px) { 
+	.nivo-prevNav, 
+	.prev-testimonial {  background: black url(../style/light/retina/small-next@2x.png) no-repeat scroll 40% 50%; }
+	.nivo-nextNav, 
+	.next-testimonial { background: black url(../style/light/retina/small-prev@2x.png) no-repeat scroll 60% 50%; }
+	
+	.next-post-img { background:url(../style/light/retina/small-prev@2x.png) no-repeat; }
+	.prev-post-img { background:url(../style/light/retina/small-next@2x.png) no-repeat; }
+}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2)      and (min-width: 769px),
+only screen and (   min--moz-device-pixel-ratio: 2)      and (min-width: 769px),
+only screen and (     -o-min-device-pixel-ratio: 2/1)    and (min-width: 769px),
+only screen and (        min-device-pixel-ratio: 2)      and (min-width: 769px),
+only screen and (                min-resolution: 192dpi) and (min-width: 769px),
+only screen and (                min-resolution: 2dppx)  and (min-width: 769px) { 
+	.next-post-img { background:url(../style/light/retina/slides_arrow_next@2x.png) no-repeat; }
+	.prev-post-img { background:url(../style/light/retina/slides_arrow_prev@2x.png) no-repeat; }
+	.nivo-prevNav , 
+	.prev-testimonia{ background: black url(../style/light/retina/slides_arrow_prev@2x.png) 15px 50% no-repeat;}
+	.nivo-nextNav , 
+	.next-testimonial{ background: black url(../style/light/retina/slides_arrow_next@2x.png) 35px 50% no-repeat; }
+	.back_to_top { background: black url(../style/light/retina/back_to_top@2x.png) no-repeat center center; }
+}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx){ 
+	
+	/* Nivo */
+	.sliderPreload {  background: url(../style/light/retina/loader@2x.gif) no-repeat scroll 50% 50%; }
+	
+	/* Arrows & Close buttons */
+	.nav_arrow-top-menu { background: url(../style/light/retina/nav_arrow_top@2x.png) no-repeat;}
+	.nav-close { background: url(../style/light/retina/nav_close@2x.png) 50% 50% no-repeat; }
+	.load-more { background: url(../style/light/retina/load-more-arrow@2x.png) no-repeat; }
+	.loadMorePreload { background:url(../style/light/retina/preloader@2x.gif) 50% 50% no-repeat; }
+	
+	/* Comments */
+	.comment-toggle { background: url(../style/light/retina/arrow-top@2x.png) no-repeat; }
+	.open-comment { background: url(../style/light/retina/arrow-bottom@2x.png) no-repeat; }
+}
